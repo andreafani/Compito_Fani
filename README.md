@@ -1,1 +1,2 @@
-# Compito_Fani
+# Compito Fani Andrea 5B IA 04/12/2018
+Per prima cosa sono andato a creare un repository remoto sul mio account di Github chiamato "Compito_Fani", al quale ci ho aggiunto un file README e il file ".gitignore" per i progetti C++. Dopo aver fatto questo ho clonato in una cartella locale il repository remoto crandomi così un repository locale. Successivamento sono andato a creare un progetto C++ attraverso Visual Studio facendo più commit su diversi branch. Dopo aver modificato le stesse righe di codice in modo diverso su entrambi i branch sono andato a fare un merge creando così un conflitto. Come ultima cosa ho eseguito un push per entrambi i branch in modo da salvare l'elaborato sul repository remoto.
