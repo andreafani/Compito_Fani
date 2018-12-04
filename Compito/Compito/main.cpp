@@ -5,6 +5,7 @@ void main()
 {
 	int iConta = 0;
 	for (int i = 0; i < 10; i++) {
-		iConta++;
+		iConta++;					//incremento contatore
+		cout << iConta << "\n";		//stampa della variabile
 	}
 }
